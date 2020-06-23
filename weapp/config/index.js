@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'minapp',
+  projectName: 'weapp',
   date: '2020-6-22',
   designWidth: 750,
   deviceRatio: {
